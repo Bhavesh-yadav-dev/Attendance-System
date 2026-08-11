@@ -38,5 +38,5 @@ recognize.py
 - Live Camera Attendance
 
 ## Author
-
-Rahul Desai
+**bhavesh yadav
+Rahul Desai**
